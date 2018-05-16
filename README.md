@@ -1,4 +1,4 @@
-# Bachelor-Thesis-PHP-Rules
+# Bachelor-Thesis-Java-Rules
 Adding coding rules for an open source platform SonarQube
 
 ## Bakalárska práca
