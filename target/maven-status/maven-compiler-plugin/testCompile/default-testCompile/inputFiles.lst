@@ -1,0 +1,14 @@
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\MyFirstCustomCheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\AvoidMethodDeclarationCheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\AvoidBrandInMethodNamesCheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\SecurityAnnotationMandatoryCheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\OWASP_A9_2017CheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\MyCustomSubscriptionRuleTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\SQLInjectionCheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\OWASP_A4_2017CheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\AvoidAnnotationCheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\SecureRandomCheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\SpringControllerRequestMappingEntityRuleTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\AvoidSuperClassCheckTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\checks\AvoidUnmodifiableListTest.java
+C:\Users\lucka\IdeaProjects\sonar-custom-rules-examples\java-custom-rules\src\test\java\org\sonar\samples\java\MyJavaRulesDefinitionTest.java
